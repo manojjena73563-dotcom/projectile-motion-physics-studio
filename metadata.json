@@ -1,0 +1,6 @@
+{
+  "name": "Projectile Motion Physics Studio",
+  "description": "Interactive physics simulation exploring projectile trajectory kinematics, dynamic gravity, air resistance, vector decomposition, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
